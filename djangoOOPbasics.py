@@ -2,6 +2,7 @@
 # To add a new markdown cell, type '# %% [markdown]'
 # %% [markdown]
 # OOP IN PYTHON NOTES 
+#this is getting started with the basicsin python 
 
 # %%
 #CLASS is like a blue print 
